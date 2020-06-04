@@ -1,0 +1,73 @@
+/* front family*/
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+</style>
+/*front family name */
+/*
+font-family: 'DM Mono', monospace;
+*/
+body{
+    
+}
+a{
+    text-decoration: none!important;
+    
+}
+.mega-menu{
+    width:400px;
+    overflow: hidden;
+}
+img.dropdown-svg{
+    width: 41px!important;
+    height: 35px!important;
+
+}
+.header-bottum-text{
+    front-weight:bold;
+    color:#F89667;
+}
+#home1{
+    background-image:url('../img/1.jpg') ;
+    min-height: 50vh;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  
+}
+.home1-text{
+    position: relative;
+    top:15%;
+}
+.home1-png{
+    position: relative;
+    left: 32%;
+    top: 20%;
+    height: 50%;
+}
+.top-footer{
+    height: 100px;
+}
+.top-footer-text{
+    position: relative;
+    top: 30px;
+}
+.icon-coustom{
+    position: relative;
+    top: 40%;
+}
+
+.footer-main{
+    background-color:#133568;
+}
+.border-class{
+    border-right: 1px solid #07111E;
+}
+
+.boder-bottum{
+    margin-top: 44px;
+    width: 209px;
+    height: 2px;
+    background-color: #07111E;  
+}
+
+
